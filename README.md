@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gushernobindsme&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gushernobindsme&layout=compact&theme=tokyonight" />
+![](https://raw.githubusercontent.com/gushernobindsme/gushernobindsme/main/profile-summary-card-output/github/0-profile-details.svg)
+![](https://raw.githubusercontent.com/gushernobindsme/gushernobindsme/main/profile-summary-card-output/github/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/gushernobindsme/gushernobindsme/main/profile-summary-card-output/github/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/gushernobindsme/gushernobindsme/main/profile-summary-card-output/github/3-stats.svg)
