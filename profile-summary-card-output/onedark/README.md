@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/gushernobindsme/gushernobindsme/main/profile-summary-card-output/onedark/4-productive-time.svg)
-```
-
-    
